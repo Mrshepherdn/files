@@ -53,11 +53,12 @@ Where one person can't afford it, two or three can come together. People with ze
 1. **First-Time Entrepreneurs** — Want to own a business, overwhelmed by setup
 2. **Frustrated Employees** — Skilled professionals stuck in jobs they don't like, already managing departments, could run their own operations overnight
 3. **Immigrants & Foreign Nationals** — Need a compliant, properly registered business in an unfamiliar regulatory environment
-4. **Serial Entrepreneurs & Investors** — Value speed, want repeatable packaged solutions
-5. **Side-Hustle Professionals** — Employed, want to formalise a side business, no time for setup
-6. **Syndicates & Groups** — Two or three people pooling resources to own a business together
-7. **Passive Income Seekers** — Want to own, hire a manager, collect dividends
-8. **Business Brokers & Resellers** — Buy to resell at markup
+4. **Skilled Worker Visa Holders (Healthcare)** — Nurses, HCAs, support workers, and carers on Skilled Worker visas who are underpaid, believe they can't own a business, and don't know that UK company law allows any person of any nationality to own a company, serve as director, and receive dividends. Three ownership models: (a) own and don't work in it — hire a manager, collect dividends, keep sponsored job; (b) own and work 20 hours/week as supplementary employment; (c) build now, go full-time after ILR. Highest-impact messaging: the revelation that they can legally do this, the salary-vs-revenue comparison, and the syndicate model (three colleagues pooling £1,667 each or using Start Up Loans for zero personal capital).
+5. **Serial Entrepreneurs & Investors** — Value speed, want repeatable packaged solutions
+6. **Side-Hustle Professionals** — Employed, want to formalise a side business, no time for setup
+7. **Syndicates & Groups** — Two or three people pooling resources to own a business together
+8. **Passive Income Seekers** — Want to own, hire a manager, collect dividends
+9. **Business Brokers & Resellers** — Buy to resell at markup
 
 ## Content Model: Multiple Pages Per Product Per Audience
 
